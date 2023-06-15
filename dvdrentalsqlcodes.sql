@@ -334,7 +334,7 @@ INSERT INTO products (product_id, name, quantity_in_stock, unit_price)
 VALUES (2, 'Pork - Bacon,back Peameal', 49, 4.65);
 
 insert into products (product_id, name, quantity_in_stock, unit_price)
-VALUES (3, 'Lettuce - Romain, Heart', 38, 3.35),
+values (3, 'Lettuce - Romain, Heart', 38, 3.35),
 	   (4, 'Brocolinni - Gaylan, Chiness', 90, 4.53),
 	   (5, 'Sauce - Ranch Dressing', 94, 1.63),
 	   (6, 'Petit Baguette', 14, 2.39),
